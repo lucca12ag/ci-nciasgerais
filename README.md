@@ -1,2 +1,2 @@
-# ci-nciasgerais
+# ciênciasgerais
 site sobre ciências gerais

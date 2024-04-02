@@ -1,0 +1,27 @@
+
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Neurociência</title>
+    <link rel="stylesheet" href="styles.css">
+    <header>
+        <!-- Conteúdo da Página -->
+        
+        <p>A Astronomia é uma ciência natural que estuda os corpos celestes, como estrelas, planetas, cometas, nebulosas, aglomerados de estrelas e galáxias, bem como os fenômenos que ocorrem no Universo. Essa disciplina busca compreender a composição, formação e evolução desses corpos celestes, além de investigar os processos físicos e químicos que regem o cosmos. A Astronomia é considerada uma das ciências mais antigas, remontando a civilizações antigas que observavam os astros e desenvolviam calendários baseados nos movimentos celestes.
+            Principais Aspectos da Astronomia:
+            Origem do Universo: A Astronomia estuda a origem do Universo, incluindo teorias como o Big Bang, que é a explicação mais aceita para o surgimento do cosmos.
+            Sistemas Planetários: Investigação dos sistemas planetários, com foco especial no nosso Sistema Solar e em exoplanetas.
+            Astrofísica: Análise das propriedades físicas dos corpos celestes, como densidade, temperatura e luminosidade.
+            Astrobiologia: Estudo da evolução de sistemas biológicos no universo, buscando compreender a possibilidade de vida extraterrestre.
+            Observação do Céu: Utilização de telescópios e outras tecnologias para observar e estudar os corpos celestes.
+            Divulgação Científica: Promoção do conhecimento astronômico para o público em geral, visando disseminar a ciência.
+            Formação em Astronomia:
+            A formação em Astronomia ocorre em faculdades especializadas, onde os estudantes se tornam bacharéis nessa área do conhecimento, recebendo o título de astrônomos. O curso tem uma duração média de oito semestres e abrange disciplinas de Física, Matemática, computação e prática observacional. No Brasil, algumas universidades oferecem o curso gratuitamente, como a UFRJ, USP e UFS. Os astrônomos atuam principalmente na pesquisa científica, na divulgação do conhecimento astronômico e em instituições como observatórios, planetários e museus.
+            Em resumo, a Astronomia é uma ciência fascinante que nos permite explorar o Universo, compreender a nossa origem e lugar no cosmos, e desvendar os mistérios do espaço sideral através da observação, pesquisa e análise dos corpos celestes e dos fenômenos astronômicos.</p>
+            
+            <img src="https://static.ric.com.br/uploads/2024/01/exploracao-do-campo-estelar-da-natureza-com-telescopio-gerado-por-ia-600x600.jpg">
+    </header>
+</body>
+</html>

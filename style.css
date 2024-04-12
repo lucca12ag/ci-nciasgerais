@@ -1,8 +1,16 @@
+
 h1 {
+    font-style:;
     text-align: center;
-   
+   color: whitesmoke;
 }
 
-p {
-    
+p { 
+    text-align: center;
+    color: whitesmoke;
+}
+ 
+body {
+
+    background-color: rgb(170, 96, 255);
 }
